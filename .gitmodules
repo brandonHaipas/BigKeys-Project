@@ -1,0 +1,6 @@
+[submodule "BigKeys-Arduino-Firmware"]
+	path = BigKeys-Arduino-Firmware
+	url = https://github.com/brandonHaipas/BigKeys-Arduino-Firmware
+[submodule "Big_Keys_Keyboard"]
+	path = Big_Keys_Keyboard
+	url = https://github.com/brandonHaipas/Big_Keys_Keyboard
